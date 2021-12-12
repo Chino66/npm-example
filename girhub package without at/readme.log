@@ -1,0 +1,31 @@
+
+@[https://forum.unity.com/threads/using-github-packages-registry-with-unity-package-manager.861076/]
+!--
+This is sad. We should have option to use
+
+```
+"publishConfig": { "registry": "https://npm.pkg.github.com" },
+
+// with
+
+"name": "USER/com.my-company.my-package", // without @
+```
+
+Instead. This would be easier to orchestrate cross domain dependency. I may publish project that utilize project of other person or other organization easily. It would critically expand the usage of package manager over everything in one go with just one line of registry
+
+--!
+
+这个地址提到注册地址可以不用/@chino66
+这个package.json用于这个实验
+
+= 为什么不要带/@chino66? 
+如果注册路径是"https://npm.pkg.github.com/@chino66",那么UPM注册解析会报错
+如果没有@chino66,不会报错,且报错后,原本正确的npm地址"https://registry.npmjs.org"也不能正确搜索
+根本原因是@符号,如果是"https://npm.pkg.github.com/chino66"也不会报错
+
+= 结果
+这个方式是不行的,上面的描述只是作者希望的一种包的发布方式,并不是真实的
+
+
+
+

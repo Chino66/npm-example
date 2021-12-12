@@ -1,0 +1,22 @@
+{
+  "name": "com.chino.github.package.example",
+  "version": "1.0.0",
+  "description": "this is github test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chino66/npm-example.git"
+  },
+  "author": "chino6",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chino66/npm-example/issues"
+  },
+  "homepage": "https://github.com/Chino66/npm-example#readme",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/@chino66"
+  }
+}
