@@ -1,0 +1,179 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: DocExample
+  name: DocExample
+  href: api/DocExample.html
+  commentId: N:DocExample
+  fullName: DocExample
+  nameWithType: DocExample
+- uid: DocExample.Example
+  name: Example
+  href: api/DocExample.Example.html
+  commentId: T:DocExample.Example
+  fullName: DocExample.Example
+  nameWithType: Example
+- uid: DocExample.Example.ExampleMethod
+  name: ExampleMethod()
+  href: api/DocExample.Example.html#DocExample_Example_ExampleMethod
+  commentId: M:DocExample.Example.ExampleMethod
+  fullName: DocExample.Example.ExampleMethod()
+  nameWithType: Example.ExampleMethod()
+- uid: DocExample.Example.ExampleMethod*
+  name: ExampleMethod
+  href: api/DocExample.Example.html#DocExample_Example_ExampleMethod_
+  commentId: Overload:DocExample.Example.ExampleMethod
+  isSpec: "True"
+  fullName: DocExample.Example.ExampleMethod
+  nameWithType: Example.ExampleMethod
+- uid: MyNamespace
+  name: MyNamespace
+  href: api/MyNamespace.html
+  commentId: N:MyNamespace
+  fullName: MyNamespace
+  nameWithType: MyNamespace
+- uid: MyNamespace.MyClass
+  name: MyClass
+  href: api/MyNamespace.MyClass.html
+  commentId: T:MyNamespace.MyClass
+  fullName: MyNamespace.MyClass
+  nameWithType: MyClass
+- uid: MyNamespace.MyClass.#ctor
+  name: MyClass()
+  href: api/MyNamespace.MyClass.html#MyNamespace_MyClass__ctor
+  commentId: M:MyNamespace.MyClass.#ctor
+  fullName: MyNamespace.MyClass.MyClass()
+  nameWithType: MyClass.MyClass()
+- uid: MyNamespace.MyClass.#ctor(System.Int32)
+  name: MyClass(Int32)
+  href: api/MyNamespace.MyClass.html#MyNamespace_MyClass__ctor_System_Int32_
+  commentId: M:MyNamespace.MyClass.#ctor(System.Int32)
+  fullName: MyNamespace.MyClass.MyClass(System.Int32)
+  nameWithType: MyClass.MyClass(Int32)
+- uid: MyNamespace.MyClass.#ctor*
+  name: MyClass
+  href: api/MyNamespace.MyClass.html#MyNamespace_MyClass__ctor_
+  commentId: Overload:MyNamespace.MyClass.#ctor
+  isSpec: "True"
+  fullName: MyNamespace.MyClass.MyClass
+  nameWithType: MyClass.MyClass
+- uid: MyNamespace.MyClass.anotherMethod(System.Int16[],System.Int32[0:,0:])
+  name: anotherMethod(Int16[], Int32[,])
+  href: api/MyNamespace.MyClass.html#MyNamespace_MyClass_anotherMethod_System_Int16___System_Int32_0__0___
+  commentId: M:MyNamespace.MyClass.anotherMethod(System.Int16[],System.Int32[0:,0:])
+  name.vb: anotherMethod(Int16(), Int32(,))
+  fullName: MyNamespace.MyClass.anotherMethod(System.Int16[], System.Int32[,])
+  fullName.vb: MyNamespace.MyClass.anotherMethod(System.Int16(), System.Int32(,))
+  nameWithType: MyClass.anotherMethod(Int16[], Int32[,])
+  nameWithType.vb: MyClass.anotherMethod(Int16(), Int32(,))
+- uid: MyNamespace.MyClass.anotherMethod*
+  name: anotherMethod
+  href: api/MyNamespace.MyClass.html#MyNamespace_MyClass_anotherMethod_
+  commentId: Overload:MyNamespace.MyClass.anotherMethod
+  isSpec: "True"
+  fullName: MyNamespace.MyClass.anotherMethod
+  nameWithType: MyClass.anotherMethod
+- uid: MyNamespace.MyClass.Del
+  name: MyClass.Del
+  href: api/MyNamespace.MyClass.Del.html
+  commentId: T:MyNamespace.MyClass.Del
+  fullName: MyNamespace.MyClass.Del
+  nameWithType: MyClass.Del
+- uid: MyNamespace.MyClass.func
+  name: func()
+  href: api/MyNamespace.MyClass.html#MyNamespace_MyClass_func
+  commentId: M:MyNamespace.MyClass.func
+  fullName: MyNamespace.MyClass.func()
+  nameWithType: MyClass.func()
+- uid: MyNamespace.MyClass.func*
+  name: func
+  href: api/MyNamespace.MyClass.html#MyNamespace_MyClass_func_
+  commentId: Overload:MyNamespace.MyClass.func
+  isSpec: "True"
+  fullName: MyNamespace.MyClass.func
+  nameWithType: MyClass.func
+- uid: MyNamespace.MyClass.Item(System.String)
+  name: Item[String]
+  href: api/MyNamespace.MyClass.html#MyNamespace_MyClass_Item_System_String_
+  commentId: P:MyNamespace.MyClass.Item(System.String)
+  name.vb: Item(String)
+  fullName: MyNamespace.MyClass.Item[System.String]
+  fullName.vb: MyNamespace.MyClass.Item(System.String)
+  nameWithType: MyClass.Item[String]
+  nameWithType.vb: MyClass.Item(String)
+- uid: MyNamespace.MyClass.Item*
+  name: Item
+  href: api/MyNamespace.MyClass.html#MyNamespace_MyClass_Item_
+  commentId: Overload:MyNamespace.MyClass.Item
+  isSpec: "True"
+  fullName: MyNamespace.MyClass.Item
+  nameWithType: MyClass.Item
+- uid: MyNamespace.MyClass.message
+  name: message
+  href: api/MyNamespace.MyClass.html#MyNamespace_MyClass_message
+  commentId: F:MyNamespace.MyClass.message
+  fullName: MyNamespace.MyClass.message
+  nameWithType: MyClass.message
+- uid: MyNamespace.MyClass.Nested
+  name: MyClass.Nested
+  href: api/MyNamespace.MyClass.Nested.html
+  commentId: T:MyNamespace.MyClass.Nested
+  fullName: MyNamespace.MyClass.Nested
+  nameWithType: MyClass.Nested
+- uid: MyNamespace.MyClass.OnHappened
+  name: OnHappened
+  href: api/MyNamespace.MyClass.html#MyNamespace_MyClass_OnHappened
+  commentId: E:MyNamespace.MyClass.OnHappened
+  fullName: MyNamespace.MyClass.OnHappened
+  nameWithType: MyClass.OnHappened
+- uid: MyNamespace.MyClass.op_Addition(MyNamespace.MyClass,MyNamespace.MyClass)
+  name: Addition(MyClass, MyClass)
+  href: api/MyNamespace.MyClass.html#MyNamespace_MyClass_op_Addition_MyNamespace_MyClass_MyNamespace_MyClass_
+  commentId: M:MyNamespace.MyClass.op_Addition(MyNamespace.MyClass,MyNamespace.MyClass)
+  fullName: MyNamespace.MyClass.Addition(MyNamespace.MyClass, MyNamespace.MyClass)
+  nameWithType: MyClass.Addition(MyClass, MyClass)
+- uid: MyNamespace.MyClass.op_Addition*
+  name: Addition
+  href: api/MyNamespace.MyClass.html#MyNamespace_MyClass_op_Addition_
+  commentId: Overload:MyNamespace.MyClass.op_Addition
+  isSpec: "True"
+  fullName: MyNamespace.MyClass.Addition
+  nameWithType: MyClass.Addition
+- uid: MyNamespace.MyClass.op_Explicit(MyNamespace.MyClass)~System.Int32
+  name: Explicit(MyClass to Int32)
+  href: api/MyNamespace.MyClass.html#MyNamespace_MyClass_op_Explicit_MyNamespace_MyClass__System_Int32
+  commentId: M:MyNamespace.MyClass.op_Explicit(MyNamespace.MyClass)~System.Int32
+  name.vb: Narrowing(MyClass to Int32)
+  fullName: MyNamespace.MyClass.Explicit(MyNamespace.MyClass to System.Int32)
+  fullName.vb: MyNamespace.MyClass.Narrowing(MyNamespace.MyClass to System.Int32)
+  nameWithType: MyClass.Explicit(MyClass to Int32)
+  nameWithType.vb: MyClass.Narrowing(MyClass to Int32)
+- uid: MyNamespace.MyClass.op_Explicit*
+  name: Explicit
+  href: api/MyNamespace.MyClass.html#MyNamespace_MyClass_op_Explicit_
+  commentId: Overload:MyNamespace.MyClass.op_Explicit
+  isSpec: "True"
+  name.vb: Narrowing
+  fullName: MyNamespace.MyClass.Explicit
+  fullName.vb: MyNamespace.MyClass.Narrowing
+  nameWithType: MyClass.Explicit
+  nameWithType.vb: MyClass.Narrowing
+- uid: MyNamespace.MyClass.PI
+  name: PI
+  href: api/MyNamespace.MyClass.html#MyNamespace_MyClass_PI
+  commentId: F:MyNamespace.MyClass.PI
+  fullName: MyNamespace.MyClass.PI
+  nameWithType: MyClass.PI
+- uid: MyNamespace.MyClass.prop
+  name: prop
+  href: api/MyNamespace.MyClass.html#MyNamespace_MyClass_prop
+  commentId: P:MyNamespace.MyClass.prop
+  fullName: MyNamespace.MyClass.prop
+  nameWithType: MyClass.prop
+- uid: MyNamespace.MyClass.prop*
+  name: prop
+  href: api/MyNamespace.MyClass.html#MyNamespace_MyClass_prop_
+  commentId: Overload:MyNamespace.MyClass.prop
+  isSpec: "True"
+  fullName: MyNamespace.MyClass.prop
+  nameWithType: MyClass.prop
